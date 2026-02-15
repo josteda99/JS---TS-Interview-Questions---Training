@@ -2,16 +2,16 @@ Hello, this is a repository to training TS and JS, I was in 2 technical intervie
 
 ## Themes
 * JS
-	* Asynchronus operations
-		* Callbacks
-		* Promises
-		* Async/await
-	* Diference between == and ===
-	* Closures
+	* Asynchronous operations✅
+		* Callbacks✅
+		* Promises✅
+		* Async/await✅
+	* Difference between == and === ✅
+	* Closures✅
 	* null vs undefined
 	* event loop
 	* let vs const vs var
-	* prototypal Inheritance
+	* prototypical Inheritance
 	* this
 	* hoisting
 	* method vs function
@@ -20,12 +20,12 @@ Hello, this is a repository to training TS and JS, I was in 2 technical intervie
 	* Array
 		* functions
 		* mutable vs inmutable
-	* Funcional programmin
+	* Funcional programming
 	* arrow function vs regular function
 	* Module
 		* require
 		* import
-		* diference and advantages
+		* difference and advantages
 	* momization
 	* data binding
 	* strinc mode
