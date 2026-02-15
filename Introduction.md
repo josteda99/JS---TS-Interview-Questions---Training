@@ -8,8 +8,8 @@ Hello, this is a repository to training TS and JS, I was in 2 technical intervie
 		* Async/await✅
 	* Difference between == and === ✅
 	* Closures✅
-	* null vs undefined
-	* event loop
+	* null vs undefined✅
+	* event loop✅
 	* let vs const vs var
 	* prototypical Inheritance
 	* this
@@ -17,6 +17,7 @@ Hello, this is a repository to training TS and JS, I was in 2 technical intervie
 	* method vs function
 	* sync vs async
 	* event delegation
+	* Promise.all()
 	* Array
 		* functions
 		* mutable vs inmutable

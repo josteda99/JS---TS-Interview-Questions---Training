@@ -27,10 +27,18 @@ function hello() {
   console.log("Helloda");
 }
 
+function goodbye() {
+  console.log("hood bye");
+}
+
 //no hello()
 //this should be console before the second example
 setTimeout(hello, 500);
+getInformation(getName);
 
 //I want to check want happen if I execute
-setTimeout(hello);
+setTimeout(goodbye, 0);
 //result is the like call sync function
+// answer to past josteda, naaaaaahhhhhh, this is working with callstack, call queue, event loop and web api
+// overview: goodbye will be displayed only when the functions is in
+// call queue and call stack is empty
